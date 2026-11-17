@@ -6,30 +6,33 @@
 
 <h1 align="center">Hi 👋, I'm NikhError</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">B.Tech Student | AI/ML Engineer with hands-on experience in Python, PyTorch, Deep Learning, Scikit-learn, NLP, LLMs, LangChain, Hugging Face, Computer Vision, OpenCV, Streamlit, SQL, and Git.</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;%3E+If+It+Compiles%2C+It%27s+Staying;%3E+Just+Code" alt="Typing SVG" />
 </p>
 
-<p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
-</p>
 
-<h2 align="center">🚀 About Me</h2>
 
-<!-- Optional illustration: add ./assets/illustration.png, then uncomment
-<img align="right" src="./assets/illustration.png" width="280" alt="Developer Illustration"/>
--->
+## About Me 
 
-<!-- TODO: rewrite this section about yourself -->
-Hi, I'm **NikhError** — a developer focused on backend development.
+```python
+class NikhError:
+    def __init__(self):
+        self.alias       = ["Nikhil Gupta"]
+        self.role        = "AI/ML Engineer"
+        self.focus       = ["Machine Learning", "Large Language Models", "RAG","Python Development"]
+        self.languages   = ["Python", "SQL", "C"]
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+    def current_mission(self):
+        return "Become a Machine Learning Engineer and build impactful AI products."
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+    def operational_status(self):
+        return "Learning | Building | Open Source | LeetCode"
+```
+---
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
 <br clear="right"/>
 
@@ -41,12 +44,12 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- TODO: replace YOUR-LINKEDIN with your LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/NikhError">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- TODO: replace with your email -->
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="nikhilgupta6574@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
@@ -89,13 +92,6 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <h2 align="center">⌘ Commit Activity</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhError/NikhError/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikhError/NikhError/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/NikhError/NikhError/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</p>
 
 <h2 align="center">⌘ Philosophy</h2>
 
