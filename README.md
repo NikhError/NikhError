@@ -13,6 +13,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;%3E+If+It+Compiles%2C+It%27s+Staying;%3E+Just+Code" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## About Me 
@@ -90,7 +93,6 @@ class NikhError:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhError&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
-<h2 align="center">⌘ Commit Activity</h2>
 
 
 <h2 align="center">⌘ Philosophy</h2>
