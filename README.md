@@ -3,7 +3,7 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 -->
-
+<img src="img1.png" width="1200" alt="Profile">
 <h1 align="center">Hi 👋, I'm NikhError</h1>
 
 <h3 align="center">B.Tech Student | AI/ML Engineer with hands-on experience in Python, PyTorch, Deep Learning, Scikit-learn, NLP, LLMs, LangChain, Hugging Face, Computer Vision, OpenCV, Streamlit, SQL, and Git.</h3>
@@ -100,3 +100,5 @@ class NikhError:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
+
+<img src="img2.png" width="1200" alt="Profile">
