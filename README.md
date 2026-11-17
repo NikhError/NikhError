@@ -93,7 +93,7 @@ class NikhError:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhError&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
-
+<img src="footer.png" width="1200" alt="Profile">
 
 <h2 align="center">⌘ Philosophy</h2>
 
@@ -102,3 +102,4 @@ class NikhError:
 </p>
 
 <img src="img2.png" width="1200" alt="Profile">
+
